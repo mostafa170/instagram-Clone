@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BiT Task</string>
+
+    <string name="st_post">Posts</string>
+    <string name="st_followers">Followers</string>
+    <string name="st_following">Following</string>
+    <string name="st_no_photos">No Photos</string>
+</resources>
